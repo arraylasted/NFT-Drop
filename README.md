@@ -8,7 +8,6 @@ pip install web3
 pip install pytz
 pip install schedule
 python nftdrop.py
-python config.py
 ```
 # PENTING
 - Input Di Terminal RPC, Chain ID, EVM Address, Privatekey, NFT Address. di config.py
