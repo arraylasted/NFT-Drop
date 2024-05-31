@@ -5,6 +5,11 @@
 git clone https://github.com/AirDropFamilyIDN/NFT-Drop.git
 cd NFT-Drop
 python -m pip install requirements.txt
+or manual install
+python -m pip install requests
+python -m pip install web3
+python -m pip install pytz
+python -m pip install schedule
 ```
 # Run
 ```
