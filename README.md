@@ -11,5 +11,5 @@ python nftdrop.py
 python config.py
 ```
 # PENTING
-- INPUT RPC, Chain ID, EVM Address, Privatekey, NFT Address. di config.py
-- INPUT Time,Timezone di nftdrop.py
+- Input Di Terminal RPC, Chain ID, EVM Address, Privatekey, NFT Address. di config.py
+- Input Di Terminal Time,Timezone di nftdrop.py
