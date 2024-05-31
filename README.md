@@ -18,3 +18,4 @@ python nftdrop.py
 ```
 # Find NFT Address On Opensea Mint Page
 [![NFT-DROP](https://img001.prntscr.com/file/img001/fqQkxMJWQNyV9bnq_kiFuA.png)](https://github.com/AirDropFamilyIDN/NFT-Drop)
+[![NFT-DROP](https://img001.prntscr.com/file/img001/4a5uEXvIQjqgzrVznYh-dQ.png)](https://github.com/AirDropFamilyIDN/NFT-Drop)
