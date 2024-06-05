@@ -2,7 +2,7 @@
 - Support Multiple Avaible EVM Chain Opensea
 - Support Set Custom Schedule Time/Timezone Excute Mint NFT
 ```
-git clone https://github.com/AirDropFamilyIDN/NFT-Drop.git
+git clone https://github.com/arraylasted/NFT-Drop.git
 cd NFT-Drop
 python -m pip install requirements.txt
 or manual install
